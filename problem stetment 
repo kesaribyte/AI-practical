@@ -1,0 +1,42 @@
+1
+
+Assignment List
+
+Write a program to design and implement a simple reflex agent for the Vacuum Cleaner world and analyze its rational behavior in a given environment.
+
+2
+
+Write a program to implement A* Search for 8 puzzle problem
+
+3
+
+Write a program to implement Adversarial Search with Alpha-Beta pruning
+
+4
+
+Write a program to implement Tower of Hanoi by State Space Search
+
+5
+
+Write a program to implement a Sudoku solver using backtracking and constraint propagation techniques.
+
+6
+
+Write a program to use BFS to solve a planning problem. Examples can be 8 puzzle problem, Robot path planning, Blocks world etc.
+
+7
+
+Write a program to use DFS for problem solving. Examples can be water jug problem, Missionaries and Cannibals, maze solving, blocks world etc.
+
+8
+
+Write a program to implement Backtracking search to solve the 8-Queens constraint satisfaction problem
+
+9
+
+Write a program to develop a game-playing agent using the Minimax algorithm for optimal decision-making
+
+10
+
+
+Write a program to develop a simple chatbot using predefined rules and pattern matching.
